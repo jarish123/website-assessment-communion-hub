@@ -6,7 +6,7 @@ The **CommunionHub React Web App** is a simple two-page application that connect
 
 ## 📌 Live Demo
 
-🔗 [CommunionHub Live page](https://idyllic-medovik-a30157.netlify.ap)
+🔗 [CommunionHub Live page](https://idyllic-medovik-a30157.netlify.app/)
 
 ## ✨ Features
 
