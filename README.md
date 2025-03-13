@@ -6,7 +6,7 @@ The **CommunionHub React Web App** is a simple two-page application that connect
 
 ## 📌 Live Demo
 
-🔗 [CommunionHub Live page](https://idyllic-medovik-a30157.netlify.app)
+🔗 [CommunionHub Live page](https://idyllic-medovik-a30157.netlify.ap)
 
 ## ✨ Features
 
@@ -38,18 +38,10 @@ Ensure you have the following installed:
    ```bash
    npm install
    ```
-   or
-   ```bash
-   yarn install
-   ```
 2. **Start the development server:**
    ```bash
    npm run dev
-   ```
-   or
-   ```bash
-   yarn dev
-   ```
+
 3. Open in your browser for further analysis.
 
 ##  Dependencies
