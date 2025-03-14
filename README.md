@@ -1,22 +1,22 @@
 # CommunionHub React Web App
 
-## 🚀 Introduction
+##  INTRODUCTION 🎮🕹️
 
 The **CommunionHub React Web App** is a simple two-page application that connects people across different faiths through events and community support. The app allows users to explore, filter, and add events.
 
-## 📌 Live Demo
+##  Live Demo
 
 🔗 [CommunionHub Live page](https://idyllic-medovik-a30157.netlify.app/)
 
-## ✨ Features
+##  🪶Features
 
-✅ **Home Page:**
+👉 **Home Page:**
 
 - Welcoming message and introduction about the Communion App
 - Hero section with a title, description, and CTA button ("Explore Events")
 - Navigation bar with links to **Home**, **Events**, and **About**
 
-✅ **Event Listing Page:**
+👉 **Event Listing Page:**
 
 - Displays a list of events (Title, Date, Location, and Description)
 - Filter events by category (**Religious, Social, Charity**)
@@ -55,10 +55,10 @@ The project uses the following dependencies:
 - **React Router** handles page navigation.
 - **Framer Motion** provides smooth animations.
 
-## 🚀 Deployment
+## 👉** Deployment
 
 The app is deployed on **Vercel**. You can deploy your version by:
 
-1. **Pushing your code to GitHub**
-2. **Connecting your repository to Vercel**
-3. **Deploying with default settings**
+1. 👉**Pushing your code to GitHub**
+2. 👉**Connecting your repository to Vercel**
+3. 👉**Deploying with default settings**
